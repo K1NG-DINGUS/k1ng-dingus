@@ -6,7 +6,7 @@
 
 🔭 I’m currently working at Prevenir Assistencial LTDA.
 
-💬 My main interests are C#, Angular, Flutter, Javascript and UX Design.
+💬 My main interests are C#, Angular, Javascript and UX Design.
 
 ⚡ Always keen on 🍖 Churrasco, 🧀 Pão de Queijo, 🎮 Games, ⚔️ D&D, 🍿 Movies and TV Series.
 
