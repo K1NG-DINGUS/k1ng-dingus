@@ -1,16 +1,27 @@
-### Hi there 👋
+## <p align=center>👋🏻 Hi, I’m Pedro Leite</p>
 
-<!--
-**K1NG-DINGUS/k1ng-dingus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+💻 A new Programmer and TI Analyst from Belo Horizonte - MG - Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working at Prevenir Assistencial LTDA.
+
+💬 My main interests are C#, Angular, Flutter, Javascript and UX Design.
+
+⚡ Always keen on 🍖 Churrasco, 🧀 Pão de Queijo, 🎮 Games, ⚔️ D&D, 🍿 Movies and TV Series.
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,react,angular,mysql,azure" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Pedro-Prev/Pedro-Prev/blob/main/Dev.gif"/>
+</p>
+
+<p align="center">
+Success is the sum of small efforts repeated day after day
+</p>
